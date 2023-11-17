@@ -1,0 +1,25 @@
+cook_book = {
+  'Omelette': [
+    {'ingredient_name': 'Egg', 'quantity': 2, 'measure': 'pc.'},
+    {'ingredient_name': 'Milk', 'quantity': 100, 'measure': 'ml'},
+    {'ingredient_name': 'Tomato', 'quantity': 2, 'measure': 'pc'}
+    ],
+  'Peking Duck': [
+    {'ingredient_name': 'Duck', 'quantity': 1, 'measure': 'pc'},
+    {'ingredient_name': 'Water', 'quantity': 2, 'measure': 'l'},
+    {'ingredient_name': 'Honey', 'quantity': 3, 'measure': 'st.l'},
+    {'ingredient_name': 'Soy sauce', 'quantity': 60, 'measure': 'ml'}
+    ],
+  'Baked potatoes': [
+    {'ingredient_name': 'Potato', 'quantity': 1, 'measure': 'kg'},
+    {'ingredient_name': 'Garlic', 'quantity': 3, 'measure': 'clove'},
+    {'ingredient_name': 'Gouda cheese', 'quantity': 100, 'measure': 'g'},
+    ],
+  'Fajitos': [
+    {'ingredient_name': 'Beef', 'quantity': 500, 'measure': 'g'},
+    {'ingredient_name': 'Sweet pepper', 'quantity': 1, 'measure': 'pc'},
+    {'ingredient_name': 'Lavash', 'quantity': 2, 'measure': 'pc'},
+    {'ingredient_name': 'Wine vinegar', 'quantity': 1, 'measure': 'st.l'},
+    {'ingredient_name': 'Tomato', 'quantity': 1, 'measure': 'pc'},
+    ]
+  }
